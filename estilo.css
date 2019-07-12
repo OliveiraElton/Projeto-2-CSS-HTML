@@ -1,0 +1,36 @@
+body{
+    background: #000 url('imagens/fundo3.jpg');
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+    width: 900px;
+}
+
+#menu {
+    background: #f8f8ea;
+    border: 1px solid red;
+    padding: 18px;
+}
+
+#conteudo {
+    background: white;
+    padding: 10px;
+}
+
+a {
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#rodape {
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    font-size: 1.2em;
+
+}
